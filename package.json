@@ -2,7 +2,7 @@
   "name": "feedback-app",
   "version": "0.1.0",
   "private": true,
-  "proxy": "objective-bohr-d5d507.netlify.app",
+  "proxy": "https://objective-bohr-d5d507.netlify.app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
